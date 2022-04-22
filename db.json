@@ -1,0 +1,60 @@
+{
+    "games": [
+        {
+            "id": 1,
+            "slug": "asphalt",
+            "image": "https://static-cdn.jtvnw.net/ttv-boxart/1960201900_IGDB-272x380.jpg",
+            "title": "Alphapet9: Legends-Epic Car Action...",
+            "details": "Asphalt 9: Legends is a 2018 racing video game developed by Gameloft Barcelona and published by Gameloft. Released on July 25, 2018, it is the ninth main installment in the Asphalt series"
+        },
+        {
+            "id": 2,
+            "slug": "zooba",
+            "image": "https://www.apkdlmod.com/wp-content/uploads/2019/11/zooba-free-for-all-battle-game.jpg",
+            "title": "Zooba:Free_for_all G6Games",
+            "details": "Can you be the last one standing in a hilariously fun battle royale game? Battle with the guards and up to 45 other players across fun game modes, and take your place as king of the zoo!"
+        },
+        {
+            "id": 3,
+            "slug": "metal",
+            "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu4kRv0jJp6wXe45THNWWkIgZPhexNQK750g&usqp=CAU",
+            "title": "METAL MADNESS Furious Car",
+            "details": "🎆Metal Madness🎆: furious car PvP action. Brand new 2022 shooter packed with guns, sniping, shooting, brawls and royal battles! Challenge fighters and snipers from all around the world. Post apocalyptic twisted tour over bullet arenas. Load the guns and dive into mad crossfire derby like a squad of special ops!"
+        },
+        {
+            "id": 4,
+            "slug": "callofduty",
+            "image": "https://www.thaqfny.com/wp-content/uploads/2021/10/%D9%84%D8%B9%D8%A8%D8%A9-Call-Of-Duty.png",
+            "title": "Call of Duty Video Game Outer Space",
+            "details": "Call of Duty is a first-person shooter video game franchise published by Activision. Starting out in 2003, it first focused on games set in World War II. Over time, the series has seen games set in the midst of the Cold War, futuristic worlds, and outer space."
+        },
+        {
+            "id": 5,
+            "slug": "eternityLegends",
+            "image": "https://img.utdstc.com/icon/058/e19/058e19f9e5baa64e90619fc21e41850c6b4f346be0576c8c9ce3ac5b25375624:200",
+            "title": "Eternity Legends Premium...",
+            "details": "Eternity Legends is an action game that throws you in the middle of a battle between two futuristic gods. It's a fast-paced game with exciting elements, tons of entertainment, and amazing fights between countless enemies."
+        },
+        {
+            "id": 6,
+            "slug": "boris",
+            "image": "https://apkresult.com/Logos/boris-and-the-dark-survival-apk.jpg",
+            "title": "Boris and the Dark Survive..",
+            "details": "Dive into the studio to find new scares, new missions, new songs, new faces, new secrets, and new dance steps for Boris. Discover even more!"
+        },
+        {
+            "id": 7,
+            "slug": "mad skills",
+            "image": "https://downloadwap.com/thumbs2/android-games/thumbs/ico/new/4/s/mad-skills-bmx-2-android.jpg",
+            "title": "Mad Skills BMX 2 Turborilla",
+            "details": "Mad Skills Motocross 2 features the best motorcycle physics of any side-scrolling racing game on the planet. You'll be amazed at the responsiveness of the bikes in this game. The more you play, the faster (and more addicted) you'll get. 13 DIFFERENT BIKES!"
+        },
+        {
+            "id": 8,
+            "slug": "the house of da vinci",
+            "image": "https://cdn.nivoli.com/adventuregamers/images/screenshots/38622/hdv2_art.png",
+            "title": "The House of Da Vinci 2",
+            "details": "The House of Da Vinci is a 2017 puzzle adventure game developed by Slovak indie studio Blue Brain Games. The game is based on fictional events that occurred during the Renaissance"
+        }
+    ]
+}

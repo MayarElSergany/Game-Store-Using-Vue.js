@@ -10,7 +10,7 @@ npm install
 ```
 npm run serve
 ```
-Game Store Website consists three pages:
+Game Store Website consists of three pages:
 
 -First: Home Page
 

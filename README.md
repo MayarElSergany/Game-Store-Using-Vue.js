@@ -11,9 +11,11 @@ npm install
 npm run serve
 ```
 Game Store Website consists three pages:
-First: Home Page
-Second: Details of the game
-Thrid: Specification of a game
+-First: Home Page
+
+-Second: Details of the game
+
+-Thrid: Specification of a game
 
 Home Page consists of navbar that has a logo to direct to Home Page, Search bar that appears when hovering on the icon of search, Three dots to toggle down a form as it has Most Popular Games Section also Most Recommendation Games Section.
 
